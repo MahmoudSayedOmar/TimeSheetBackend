@@ -1,0 +1,9 @@
+c:\users\mahmoud.omar\documents\visual studio 2017\Projects\EmployeeTimeOff\EmployeeTimeOff\bin\Debug\netcoreapp1.1\EmployeeTimeOff.deps.json
+c:\users\mahmoud.omar\documents\visual studio 2017\Projects\EmployeeTimeOff\EmployeeTimeOff\bin\Debug\netcoreapp1.1\EmployeeTimeOff.runtimeconfig.json
+c:\users\mahmoud.omar\documents\visual studio 2017\Projects\EmployeeTimeOff\EmployeeTimeOff\bin\Debug\netcoreapp1.1\EmployeeTimeOff.runtimeconfig.dev.json
+c:\users\mahmoud.omar\documents\visual studio 2017\Projects\EmployeeTimeOff\EmployeeTimeOff\bin\Debug\netcoreapp1.1\EmployeeTimeOff.dll
+c:\users\mahmoud.omar\documents\visual studio 2017\Projects\EmployeeTimeOff\EmployeeTimeOff\bin\Debug\netcoreapp1.1\EmployeeTimeOff.pdb
+c:\users\mahmoud.omar\documents\visual studio 2017\Projects\EmployeeTimeOff\EmployeeTimeOff\obj\Debug\netcoreapp1.1\EmployeeTimeOff.csprojResolveAssemblyReference.cache
+c:\users\mahmoud.omar\documents\visual studio 2017\Projects\EmployeeTimeOff\EmployeeTimeOff\obj\Debug\netcoreapp1.1\EmployeeTimeOff.AssemblyInfo.cs
+c:\users\mahmoud.omar\documents\visual studio 2017\Projects\EmployeeTimeOff\EmployeeTimeOff\obj\Debug\netcoreapp1.1\EmployeeTimeOff.dll
+c:\users\mahmoud.omar\documents\visual studio 2017\Projects\EmployeeTimeOff\EmployeeTimeOff\obj\Debug\netcoreapp1.1\EmployeeTimeOff.pdb

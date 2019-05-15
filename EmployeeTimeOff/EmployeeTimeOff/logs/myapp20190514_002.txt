@@ -1,0 +1,3 @@
+2019-05-14 13:12:48.030 +02:00 [INF] Request Sent
+2019-05-14 13:14:23.299 +02:00 [INF] Request Sent
+2019-05-14 13:14:33.152 +02:00 [INF] Request Completed for user : 100096

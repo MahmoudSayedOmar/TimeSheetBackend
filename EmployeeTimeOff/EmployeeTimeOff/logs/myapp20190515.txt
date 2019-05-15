@@ -1,0 +1,2 @@
+2019-05-15 15:03:17.145 +02:00 [INF] User Id was sent by null
+2019-05-15 15:43:09.498 +02:00 [INF] User Id was sent by null

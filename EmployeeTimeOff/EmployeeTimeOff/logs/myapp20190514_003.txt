@@ -1,0 +1,6 @@
+2019-05-14 13:14:55.457 +02:00 [INF] Request Sent
+2019-05-14 13:14:58.784 +02:00 [INF] Request Completed for user : 1000965458485484848
+2019-05-14 13:16:08.096 +02:00 [INF] Request Sent
+2019-05-14 13:16:08.184 +02:00 [INF] Please check your parameters userId: 100096
+2019-05-14 13:17:44.275 +02:00 [INF] Request Sent
+2019-05-14 13:18:20.567 +02:00 [INF] Request Completed for user : 100096
