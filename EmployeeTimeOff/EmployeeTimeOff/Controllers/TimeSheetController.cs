@@ -9,6 +9,7 @@ using Serilog;
 using EmployeeTimeOff.ErrorHandlers;
 using Newtonsoft.Json.Linq;
 using EmployeeTimeOff.Data;
+using Newtonsoft.Json;
 
 namespace EmployeeTimeOff.Controllers
 {
@@ -43,8 +44,8 @@ namespace EmployeeTimeOff.Controllers
                     var response = client.GetAsync($"successfactors/odata/v2/EmployeeTime?%24filter=userId%20eq%20{userId}&%24orderby=approvalStatus&%24select=approvalStatus,endDate,startDate,timeType");
                     Log.Information("Request Sent");
                     string Result = await response.Result.Content.ReadAsStringAsync();
-                    dynamic stuff = JObject.Parse(Result);
-                    if (Result.Length>30)
+                    Test TimeSheets= JsonConvert.DeserializeObject<Test>(Result);
+                    if (TimeSheets.d.results.Count != 0)
                     {
                         Log.Information($"Request Completed for user : {userId}");
                         return Ok(Result);
